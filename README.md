@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/models/apollo.jfif" alt="Apollo Evo" width="0" />
+  <img src="public/models/apollo_evo.glb" alt="Apollo Evo" width="0" />
   <h1 align="center">APOLLO PROJECT EVO 🏎️ × CYBERPUNK 🔌</h1>
   <h3>High-Performance Portfolio</h3>
   <br />
